@@ -5,7 +5,7 @@
 - 📚 Currently studying in 7th Grade
 - 💻 Interested in Technology and Coding
 - 🌱 Learning GitHub and Programming
-- 🎯 Goal: Become a Soldier
+- 🎯 Goal: To become a Software Engineer or serve the country as a Soldier.
 
 ## 🚀 Skills
 - Basic Computer Knowledge
